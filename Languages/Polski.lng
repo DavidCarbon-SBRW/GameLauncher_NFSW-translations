@@ -13,6 +13,7 @@ ERROR_HASHMISMATCHNFSW=Twój plik NFSW.exe jest zmodyfikowany. Proszę ponownie 
 ERROR_INVALIDCREDS=Nieprawidłowy e-mail lub hasło.
 ERROR_NOPERMISSION=Nie udało się zapisać pliku testowego. Upewnij się, że uruchamiasz z uprawnieniami administratora.
 ERROR_NOINTERNETCONNECTION=Nie udało się połączyć z Internetem. Sprawdź, czy launcher nie jest blokowany przez zaporę sieciową.
+ERROR_NOTENOUGHSPACE=Nie udało się pobrać plików gry. Upewnij się, że masz 4GB wolnego miejsca na dysku twardym.
 ERROR_REGISTER_MAILCORRECT=Wpisz prawidłowy adres e-mail
 ERROR_REGISTER_MAILEMPTY=Wpisz swój e-mail
 ERROR_REGISTER_PASSWORDEMPTY=Wpisz swoje hasło
