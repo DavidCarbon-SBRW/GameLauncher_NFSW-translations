@@ -25,6 +25,7 @@ ERROR_SERVEROFFLINE=Serwer jest offline
 ERROR_TAMPERING=Wykryto ingerencję launchera. Użyj oryginalnej kompilacji.
 INSTALL_INFO=Witaj! Wygląda na to, że pierwszy raz uruchomiłeś ten launcher. Naciśnij OK i określ, gdzie chcesz pobrać wszystkie wymagane pliki gry (lub wybierz istniejącą instalację).
 INSTALL_WARNING=Instalowanie NFSW w tym samym folderze, co launcher nie jest sugerowane. W zamian, zostanie zainstalowany na {0}
+MAIN_ALLOWEDCOUNTRIES=Uwaga, ten serwer akceptuje tylko graczy z: {0}
 MAIN_BUILTINSERVERINIT=Serwer Soapbox uruchomiony. Oczekiwanie na zapytania.
 MAIN_CANCEL=Anuluj
 MAIN_DOWNLOADCOMPLETED=Pobieranie zakończone
