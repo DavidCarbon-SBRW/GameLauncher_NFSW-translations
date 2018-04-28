@@ -25,6 +25,7 @@ ERROR_SERVEROFFLINE=O server parece estar offline.
 ERROR_TAMPERING=Adulteração no launcher detectada. Por favor, utilize a build original.
 INSTALL_INFO=Pressione OK e especifique onde você deseja que seja baixado os arquivos de jogo (Caso já tenha o jogo, selecione a pasta que se encontra o nfsw.exe).
 INSTALL_WARNING=A instalação do NFS World no mesmo diretório do launcher não é recomendado. Em vez disso, vamos instalar em {0}
+MAIN_ALLOWEDCOUNTRIES=Aviso, este servidor só aceita jogadores do: {0}
 MAIN_BUILTINSERVERINIT=Server Soapbox iniciado. À espera de consultas.
 MAIN_CANCEL=Cancelar
 MAIN_DOWNLOADCOMPLETED=Download completo
