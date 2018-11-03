@@ -26,6 +26,7 @@ ERROR_TAMPERING=Détection d’un launcher modifié, veuillez utiliser le launch
 INSTALL_INFO=Hey ! on dirait que c’est la première fois que vous lancez ce launcher, appuyez sur OK et indiquez où vous voulez télécharger tous les fichiers de jeu requis (ou sélectionnez votre installation actuelle).
 INSTALL_WARNING=Installer NFSW dans le même répertoire que le launcher n’est pas suggéré, mais nous l’installerons sur {0}.
 MAIN_ALLOWEDCOUNTRIES=Attention, ce serveur n’accepte que les joueurs de : {0}.
+MAIN_BUILTINSERVERINIT=Lancement du serveur Soapbox, en attente de requêtes.
 MAIN_CANCEL=Annuler
 MAIN_DOWNLOADCOMPLETED=Téléchargement terminé.
 MAIN_DOWNLOADER_CHECKINGCORE=Vérification des fichiers importants...
